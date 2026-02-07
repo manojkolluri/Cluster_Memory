@@ -1,2 +1,2 @@
 # Cluster_Memory
-This Repository is intended to experiment with cluster memory
+This Repository is intended to experiment with a cluster memory approach for LLM's
